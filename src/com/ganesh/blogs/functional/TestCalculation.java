@@ -1,4 +1,4 @@
-package com.ganesh.blogs;
+package com.ganesh.blogs.functional;
 
 public class TestCalculation {
     public static void main(String[] args) {

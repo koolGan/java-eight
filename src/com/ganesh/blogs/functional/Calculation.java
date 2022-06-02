@@ -1,4 +1,4 @@
-package com.ganesh.blogs;
+package com.ganesh.blogs.functional;
 
 @FunctionalInterface
 public interface Calculation<T> {
